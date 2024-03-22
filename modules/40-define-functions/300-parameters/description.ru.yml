@@ -64,7 +64,7 @@ theory: |
   # Внутри функции string будет равна 'Winter is coming'
   # Имя переменной снаружи не связанно с именем переменной в определении функции
   text = 'Winter is coming'
-  get_last_char(text)  # g
+  get_last_char(string)  # g
   ```
 
   https://replit.com/@hexlet/python-basics-define-functions-parameters
